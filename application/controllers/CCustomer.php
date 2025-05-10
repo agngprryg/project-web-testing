@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-class CAuth extends CI_Controller
+class CCustomer extends CI_Controller
 {
 
     /**
